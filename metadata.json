@@ -1,0 +1,6 @@
+{
+  "name": "Tutor Pemrograman AI",
+  "description": "Platform tutor pemrograman interaktif yang mengajarkan berbagai bahasa pemrograman level demi level dengan bimbingan AI cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
